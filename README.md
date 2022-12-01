@@ -39,6 +39,7 @@ User = {
 [![Cepedi-Data_Trail_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&theme=dark)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
 [![Projeto_Votacao](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Projeto_Votacao&theme=dark)](https://github.com/MatBrands/Projeto_Votacao)
 [![Genome_search](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Genome_search&theme=dark)](https://github.com/MatBrands/Genome_search)
+[![Capes_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Capes_Project&theme=dark)](https://github.com/MatBrands/Capes_Project)
 
 ### Utils
 <h2 align="center">
