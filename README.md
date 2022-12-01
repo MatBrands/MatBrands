@@ -6,6 +6,8 @@
 [2]: mailto:matheusmibrandao@gmail.com
 [2.1]: https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white
 
+
+### About Me:
 ```py
 User = {
 	'name': 'Matheus Miranda Brandão',
@@ -14,3 +16,11 @@ User = {
 	'current_company': 'Scientific initiation'
 }
 ```
+
+### Languages and Tools:
+
+### :fire: My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Utils
