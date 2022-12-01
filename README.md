@@ -36,7 +36,7 @@ User = {
 ### :fire: My Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)
-![MatBrands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatBrands)
+![MatBrands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatBrands&theme=dark)
 ### Highlights
 [![Cepedi-Data_Trail_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&theme=dark)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
 [![Projeto_Votacao](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Projeto_Votacao&theme=dark)](https://github.com/MatBrands/Projeto_Votacao)
