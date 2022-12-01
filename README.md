@@ -18,6 +18,8 @@ User = {
 ```
 
 ### Languages and Tools:
+![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+
 
 ### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)](https://git.io/streak-stats)
