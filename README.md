@@ -1,5 +1,5 @@
 # Welcome, I'm Matheus ! 
-[![Linkedln][1.1]][1] [![Gmail][2.1]][2] ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![Linkedln][1.1]][1] [![Gmail][2.1]][2] ![GitHub followers](https://img.shields.io/github/followers/MatBrands?label=Follow&style=social)
 
 [1]: https://www.linkedin.com/in/matheus-miranda-brand%C3%A3o/
 [1.1]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
