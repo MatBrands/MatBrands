@@ -34,11 +34,11 @@ User = {
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C127%20hrs%2041%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-901-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Highlights
 <a href="https://github.com/MatBrands/Cepedi-Data_Trail_Project">
