@@ -18,10 +18,10 @@ User = {
 ```
 
 ### Languages and Tools:
-<img src="https://simpleicons.org/icons/anaconda.svg" width="50">
-<img src="https://simpleicons.org/icons/jupyter.svg" width="50">
-<img src="https://simpleicons.org/icons/python.svg" width="50">
-<img src="https://simpleicons.org/icons/scikitlearn.svg" width="50">
+<img src="https://simpleicons.org/icons/anaconda.png" width="50">
+<img src="https://simpleicons.org/icons/jupyter.png" width="50">
+<img src="https://simpleicons.org/icons/python.png" width="50">
+<img src="https://simpleicons.org/icons/scikitlearn.png" width="50">
 
 ### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)](https://git.io/streak-stats)
