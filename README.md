@@ -29,8 +29,6 @@ User = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="75" height="75"/>
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" width="75" height="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit" width="75" height="75"/>
-
-  
 </div>
 
 ### :fire: My Stats:
