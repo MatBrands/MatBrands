@@ -12,7 +12,7 @@
 User = {
 	'name': 'Matheus Miranda Brandão',
 	'role': 'Data Analytics',
-    'askMeAbout': ["Database", "Tech", "Data", "Python"],
+    'askMeAbout': ['Database', 'Tech', 'Data', 'Python'],
 	'hobbies': ['Read books', 'Play Videogames', 'Watch Movies/Series'],
 	'current_company': 'Scientific initiation'
 }
