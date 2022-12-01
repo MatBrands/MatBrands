@@ -12,8 +12,8 @@
 User = {
 	'name': 'Matheus Miranda Brandão',
 	'role': 'Data Analytics',
-      'current_company': 'Scientific initiation (UESC)',
-      'ask_me_about': ['Database', 'Tech', 'Data', 'Python'],
+        'current_company': 'Scientific initiation (UESC)',
+        'ask_me_about': ['Database', 'Tech', 'Data', 'Python'],
 	'hobbies': ['Read books', 'Play Videogames', 'Watch Movies/Series']
 }
 ```
