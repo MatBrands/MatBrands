@@ -38,7 +38,7 @@ User = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Highlights
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&theme=dark)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
 
 <!-- <a href="https://github.com/MatBrands/Cepedi-Data_Trail_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cepedi-Data_Trail_Project" />
