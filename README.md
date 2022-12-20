@@ -18,6 +18,7 @@ User = {
 }
 ```
 
+
 ### Languages and Tools:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="Arch" width="75" height="75"/>
@@ -31,6 +32,7 @@ User = {
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit" width="75" height="75"/>
 </div>
 
+
 ### :fire: My Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=vision-friendly-dark&background=000000)
 
@@ -40,11 +42,13 @@ User = {
 
 ![MatBrands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a8f9c035-d5c7-4641-8e36-542a10e1714e&theme=vision-friendly-dark)
 
+
 ### Highlights
 [![Cepedi-Data_Trail_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&theme=dark)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
 [![Projeto_Votacao](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Projeto_Votacao&theme=dark)](https://github.com/MatBrands/Projeto_Votacao)
 [![Genome_search](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Genome_search&theme=dark)](https://github.com/MatBrands/Genome_search)
 [![Capes_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Capes_Project&theme=dark)](https://github.com/MatBrands/Capes_Project)
+
 
 ### Utils
 <h2 align="center">
