@@ -38,7 +38,7 @@ User = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)
 
 
-![MatBrands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatBrands&theme=dark)
+![MatBrands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatBrands)
 
 ### Highlights
 [![Cepedi-Data_Trail_Project](https://github-readme-stats.vercel.app/api/pin/?username=MatBrands&repo=Cepedi-Data_Trail_Project&theme=dark)](https://github.com/MatBrands/Cepedi-Data_Trail_Project)
