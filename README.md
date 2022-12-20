@@ -32,7 +32,7 @@ User = {
 </div>
 
 ### :fire: My Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatBrands&theme=vision-friendly-dark&background=000000)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatBrands&layout=compact&theme=vision-friendly-dark)
