@@ -11,9 +11,9 @@
 ```py
 User = {
 	'name': 'Matheus Miranda Brandão',
-	'role': 'Data Scientist',
-        'current_company': 'Undergraduate Researcher (UESC)',
-        'ask_me_about': ['Tech', 'Python', 'Data', 'Machine Learning', 'Deep Learning'],
+	'role': 'Data Engineer',
+        'current_company': 'Intern at Petlove',
+        'ask_me_about': ['Tech', 'Python', 'Data', 'Pipelines', 'Cluster', 'Databases'],
 	'hobbies': ['Read books', 'Play Videogames', 'Watch Movies/Series']
 }
 ```
